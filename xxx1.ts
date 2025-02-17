@@ -1,6 +1,1 @@
-
-&&& '../eee';
-&&& '../drawing.svg';
-&&& '../test';
-
-
+content
